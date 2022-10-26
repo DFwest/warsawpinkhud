@@ -9,14 +9,15 @@ Scheme
 	{
 		// HUD COLORS
 		//---------------------------------------------
-		"Yellow"					"0 176 255 255"
+		"Yellow"					"255 0 128 255"
 		"White"						"255 255 255 255"
 		"DullWhite"					"128 128 128 255"
 		"DarkGrey"					"32 32 32 255"
 		"Black"						"16 16 16 255"
 		"Blank"						"0 0 0 0"
 		"HudBlack"					"0 0 0 192"
-		"Cyan"						"0 176 255 255"
+    "Cyan"						"0 176 255 255"
+    "Purple"          "255 0 128 255"
 
 		// BASE COLORS
 		//---------------------------------------------
@@ -59,7 +60,7 @@ Scheme
 		Border.Bright					"Blank"
 		Border.Dark						"Blank"
 		Border.Selection				"Blank"
-		Border.DarkSolid				"Cyan"
+		Border.DarkSolid				"Purple"
 
 		Button.TextColor				"White"
 		Button.BgColor					"Black"
@@ -97,7 +98,7 @@ Scheme
 		FrameGrip.Color2				"White"
 		FrameTitleButton.FgColor		"White"
 		FrameTitleBar.Font				"UiBold"
-		FrameTitleBar.TextColor			"Cyan"
+		FrameTitleBar.TextColor			"Purple"
 		FrameTitleBar.DisabledTextColor	"DullWhite"
 
 		Label.TextDullColor				"DullWhite"
