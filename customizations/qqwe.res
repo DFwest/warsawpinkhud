@@ -3,9 +3,9 @@ Scheme
 	Colors
 	{
 		// MAIN COLORS
-		"AccentMain"				"255 0 128 255"			// Main accent color
-		"AccentMainTransparent"		"255 0 128 96"			// Main accent color with transparency
-		"AccentMainTransparent2"	"255 0 128 32"			// Main accent color with transparency
+		"AccentMain"				"0 176 255 255"			// Main accent color
+		"AccentMainTransparent"		"0 176 255 96"			// Main accent color with transparency
+		"AccentMainTransparent2"	"0 176 255 32"			// Main accent color with transparency
 		"AccentMainDark"			"0 112 192 255"			// Unused
 		"ColorNegative"				"255 80 0 255"			// Negative color (Canceling, quitting, etc.)
 		"ColorPositive"				"0 255 176 255"			// Positive color (Accepting, joining a round, etc.)
@@ -27,14 +27,14 @@ Scheme
 		"DamageNum"					"255 80 0 255"			// Unused (?) controlled by in-game commands now
 		// CROSSHAIR COLORS
 		"Crosshair"					"255 255 255 255"		// Crosshair color
-		"Hitmarker"					"255 0 128 255"			// Hitmarker color
+		"Hitmarker"					"255 80 0 255"			// Hitmarker color
 		// UBER COLORS
 		"UberBar"					"255 255 255 255"		// Uber bar color
 		"UberBarCharged1"			"0 255 176 255"			// Uber bar charged color 1 (alternates between this and UberBarCharged2)
 		"UberBarCharged2"			"0 255 176 255"			// Uber bar charged color 2 (alternates between this and UberBarCharged1)
-		// ETC
+		// ETC 
 		"ColorPipboy"				"0 255 64 255"			// Pipboy color
-		"ColorPipboyBackground1"	"0 128 32 224"
+		"ColorPipboyBackground1"	"0 128 32 224"			
 		"ColorPipboyBackground2"	"0 128 32 208"
 		"ColorPipboyBackground3"	"0 128 32 192"
 		"ColorPipboyBackground4"	"0 128 32 128"
@@ -55,12 +55,11 @@ Scheme
 		"ColorCyanTransparent"		"0 224 255 128"
 		"ColorBlueTransparent"		"0 192 255 128"
 		"ColorMagentaTransparent"	"255 0 160 128"
-		"ColorPurple"				"255 0 128 255"
 		"ColorBlack"				"0 0 0 255"
 		"ColorWhite"				"255 255 255 255"
 		"ColorWhiteTransparent128"	"255 255 255 128"
 		"ColorWhiteTransparent64"	"255 255 255 64"
-		"ColorGrey192"				"192 192 192 255"
+		"ColorGrey192"				"192 192 192 255"	
 		"ColorGrey160"				"160 160 160 255"
 		"ColorGrey128"				"128 128 128 255"
 		"ColorGrey64"				"64 64 64 255"
@@ -69,7 +68,7 @@ Scheme
 		"ColorGrey16"				"16 16 16 255"
 		"TextColor"					"255 255 255 255"
 		// TEAM COLORS
-		// "TeamColorRed"				"255 64 56 255"
+		// "TeamColorRed"				"255 64 56 255"	
 		// "TeamColorBlu"				"80 176 255 255"
 		// "TeamColorRedTransparent"	"255 64 56 128"
 		// "TeamColorBluTransparent"	"80 176 255 128"

@@ -30,9 +30,9 @@
 			"proportionaltoparent"		"1"
 			"fgcolor_override"			"ColorWhiteTransparent64"
 			"font"						"Font12"
-			"labelText"					"WARSAWHUD 1.0.4.1"
+			"labelText"					"WARSAWPINKHUD"
 			"textalignment"				"east"
-			"urltext"					"https://github.com/p3tr1ch0r/warsawhud"
+			"urltext"					"https://github.com/DFwest/warsawpinkhud"
 		}
 	}
 }
